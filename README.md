@@ -1,2 +1,2 @@
 A Lucky kávézó weboldala
-Valami
+2 Valamik
