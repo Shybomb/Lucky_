@@ -4,3 +4,4 @@
 #mi van itt?
 #pacek a still most ezt mért?
 #most jó?
+#hipszter szakál
