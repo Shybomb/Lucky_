@@ -36,4 +36,4 @@ body{
 |A|B|C|
 |-:|:-:|-:|
 |Nagy|Lajos|fotós|
-|Kis| Annamária|sportoló|
+|Kis|Annamária|sportoló|
