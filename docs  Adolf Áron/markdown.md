@@ -32,3 +32,8 @@ body{
 *ez a szöveg dőlt*, __míg ez pedid félkövér__
 
 ### táblázat
+
+|A|B|C|
+|-:|:-:|-:|
+|Nagy|Lajos|fotós|
+|Kis| Annamária|sportoló|
