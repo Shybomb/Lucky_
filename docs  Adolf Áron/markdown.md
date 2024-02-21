@@ -29,7 +29,7 @@ body{
 }
 ```
 ## kiemelés
-*ez a szöveg dőlt*, __míg ez pedid félkövér__
+*ez a szöveg dőlt*, __míg ez pedig félkövér__
 
 ### táblázat
 
